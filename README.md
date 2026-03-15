@@ -33,3 +33,12 @@ Python, Pandas, Scikit-learn, Gradio
 ## Run the project
 python app.py
 
+## Application Interface
+
+Below is the Gradio interface used to analyze delivery worker earnings and determine profit or loss.
+
+![Gradio UI](UI.png)
+
+## Nelcy
+
+Created as part of a Machine Learning lab project demonstrating practical applications of data analysis, model comparison, and interactive AI deployment.
